@@ -1,0 +1,6 @@
+Name: Druid
+Strength: 15
+Dexterity: 2
+Constitution: 1
+Intelligence: 1
+Spirit: 1
