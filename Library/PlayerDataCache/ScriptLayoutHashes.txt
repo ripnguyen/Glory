@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-C:/Users/Richard/Documents/New Unity Project/Glory/Glory.exe
+C:/Users/druid/Documents/Glory/Glory/Glory.exe
 SceneListBegin?
 Assets/Scenes/StartScreen.unity
 Assets/Scenes/Creation.unity
@@ -150,5 +150,6 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.StatDownButton
-8f5c8f24e545111020de31b4534fae30 Assembly-CSharp.dll:.StartButton
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.PlayButton
+8f5c8f24e545111020de31b4534fae30 Assembly-CSharp.dll:.StartButton
+28ee1e98db3781cfbe6996ad7d10d51f Assembly-CSharp.dll:.Engine

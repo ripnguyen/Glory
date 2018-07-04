@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class Stats : MonoBehaviour {
 
-	public static int Strength  = 1;
+	public static int Strength  = 16;
 	public static int Dexterity = 1;
 	public static int Constitution = 1;
 	public static int Intelligence = 1;

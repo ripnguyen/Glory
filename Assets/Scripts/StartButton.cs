@@ -45,12 +45,12 @@ public class StartButton : MonoBehaviour {
 		fileName = filePath + "data.txt";
 		StreamWriter mySW = new StreamWriter(fileName);
 
-		mySW.WriteLine("Name: " + Stats.playerName);
-		mySW.WriteLine("Strength: " + Stats.Strength);
-		mySW.WriteLine("Dexterity: " + Stats.Dexterity);
-		mySW.WriteLine("Constitution: " + Stats.Constitution);
-		mySW.WriteLine("Intelligence: " + Stats.Intelligence);
-		mySW.WriteLine("Spirit: " + Stats.Spirit);
+		mySW.WriteLine("Name:" + Stats.playerName);
+		mySW.WriteLine("Strength:" + Stats.Strength);
+		mySW.WriteLine("Dexterity:" + Stats.Dexterity);
+		mySW.WriteLine("Constitution:" + Stats.Constitution);
+		mySW.WriteLine("Intelligence:" + Stats.Intelligence);
+		mySW.WriteLine("Spirit:" + Stats.Spirit);
 
 		mySW.Flush();
 		mySW.Close();
