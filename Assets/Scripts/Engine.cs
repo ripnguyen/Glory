@@ -40,12 +40,11 @@ public class Engine : MonoBehaviour {
 	public GameObject healthDisplay;
 	public GameObject manaDisplay;
 
-	string filePath = "Assets\\SaveData\\";
 	string fileName;
 
 	void Start () 
 	{
-		fileName = filePath + "data.txt";
+		fileName =  "data.txt";
 		StreamReader mySR = new StreamReader(fileName);
 		loadData(mySR);
 		

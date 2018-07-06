@@ -1,6 +1,6 @@
-Name:Dr00d
-Strength:16
-Dexterity:1
-Constitution:1
-Intelligence:1
+Name:54654
+Strength:13
+Dexterity:2
+Constitution:2
+Intelligence:2
 Spirit:1

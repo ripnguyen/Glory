@@ -1,0 +1,6 @@
+Name:Druid
+Strength:4
+Dexterity:4
+Constitution:4
+Intelligence:4
+Spirit:4

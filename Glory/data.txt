@@ -1,0 +1,6 @@
+Name:Druid
+Strength:16
+Dexterity:1
+Constitution:1
+Intelligence:1
+Spirit:1

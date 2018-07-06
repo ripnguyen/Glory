@@ -10,7 +10,7 @@ public class StartButton : MonoBehaviour {
 	public Text errorNoName;
 	public Text errorStatsNotMax;
 	public int errors;
-	string filePath = "Assets\\SaveData\\";
+	//string filePath = "Assets\\SaveData\\";
 	string fileName;
 
 	public void gameStart(string sceneName)
@@ -42,7 +42,7 @@ public class StartButton : MonoBehaviour {
 	}
 
 	public void SaveStats() {
-		fileName = filePath + "data.txt";
+		fileName = "data.txt";
 		StreamWriter mySW = new StreamWriter(fileName);
 
 		mySW.WriteLine("Name:" + Stats.playerName);
